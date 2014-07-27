@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-data science course on courser.org
+data science course on coursera.org
